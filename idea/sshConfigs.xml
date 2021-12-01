@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="3.36.252.152" id="f5c49c4c-6239-4c3b-b9a6-bcfd46910a75" keyPath="C:\Users\mose4\Desktop\server\eirckey.ppk" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
