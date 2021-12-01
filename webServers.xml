@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c2b91ffa-0f0d-42b9-83df-5f09906c18d0" name="kunkuk">
+        <fileTransfer rootFolder="/var/www" accessType="SFTP" host="3.36.252.152" port="22" sshConfigId="f5c49c4c-6239-4c3b-b9a6-bcfd46910a75" sshConfig="ubuntu@3.36.252.152:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
